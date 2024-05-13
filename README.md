@@ -12,7 +12,7 @@ Welcome to my analyst portfolio! This repository showcases my skills and experie
 📍 Hyderabad
 
 ## About Me
-I'm Pallabi Barori, a business analyst with a background in biotechnology and a post-graduation in business analytics focusing on marketing. Currently, I'm a Machine Learning Data Linguist at Amazon, where I've been involved in enhancing customer experiences with genAI. My role involves project management, data analysis, and dashboard creation to support feature releases. I have a knack for diving deep into data to extract actionable insights, leveraging tools like SQL, Python, and Tableau.
+I'm Pallabi Barori, a Data Linguist with a background in biotechnology and a post-graduation in business analytics focusing on marketing. Currently, I'm a Machine Learning Data Linguist at Amazon, where I've been involved in enhancing customer experiences with genAI. My role involves project management, data analysis, and dashboard creation to support feature releases. I have a knack for diving deep into data to extract actionable insights, leveraging tools like SQL, Python, and Tableau.
 
 ## Projects
 
